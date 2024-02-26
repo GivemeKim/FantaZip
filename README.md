@@ -1,2 +1,2 @@
 # FantaZip
-Recommending A good place to live
+Recommending A Good Place to Live
